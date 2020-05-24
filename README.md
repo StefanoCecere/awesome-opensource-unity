@@ -22,6 +22,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 - [Input](#input)
 - [Level Editor](#level-editor)
 - [Light](#light)
+- [Localization](#localization)
 - [Lua](#lua)
 - [Materials](#materials)
 - [Math](#math)
@@ -231,6 +232,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Inventory](https://github.com/FarrokhGames/Inventory) - A Diablo 2-style inventory system for Unity3D
 
 ### Input
+* [Lean Touch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111) - Powerful and complete touch library. paid additional examples available
 * [InputManager](https://github.com/daemon3000/InputManager) - Custom InputManager for Unity
 * [InControl](https://github.com/pbhogan/InControl) - An input manager for Unity that tames the cross-platform controller beast.
 * [InputBinder](https://github.com/RyanNielson/InputBinder) - Easily bind input events to methods in Unity.
@@ -251,6 +253,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
 * [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!
+
+### Localization
+* [Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504) Quickly add multi-language support. text, sounds, load CSV
 
 ### Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
