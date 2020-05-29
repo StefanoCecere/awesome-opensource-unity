@@ -2,47 +2,61 @@
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
 [**Open Source Repositories**](#open-source-repositories)
-- [2D](#2d)
-- [2D Bones](#2d-bones)
-- [AI](#ai)
-- [Animation](#animation)
-- [Asset Bundle](#asset-bundle)
-- [Camera](#camera)
-- [Character Controllers 2D](#character-controllers-2d)
-- [Character Controllers 3D](#character-controllers-3d)
-- [Controller Mappings](#controller-mappings)
-- [Console](#console)
-- [Database](#database)
-- [ECS](#ecs)
-- [Editor](#editor)
-- [Effect and Shaders](#effect-and-shaders)
-- [Environment](#environment)
-- [Framework](#framework)
-- [Gameplay](#gameplay)
-- [Input](#input)
-- [Level Editor](#level-editor)
-- [Light](#light)
-- [Localization](#localization)
-- [Lua](#lua)
-- [Materials](#materials)
-- [Math](#math)
-- [Meshes](#meshes)
-- [Monetization](#monetization)
-- [Networking](#networking)
-- [Physic](#physic)
-- [Plugins](#plugins)
-- [Procedural Generation Systems](#procedural-generation-systems)
-- [Pooling System](#pooling-system)
-- [Scriptings](#scriptings)
-- [Services](#services)
-- [Sounds](#sounds)
-- [Timeline](#timeline)
-- [Tweening](#tweening)
-- [Vehicle](#vehicle)
-- [UI](#ui)
-- [Utilities](#utilities)
-- [Video](#video)
-- [VR](#vr)
+- [Awesome opensource Unity packages](#awesome-opensource-unity-packages)
+  - [Open Source Repositories](#open-source-repositories)
+    - [2D](#2d)
+    - [2D Bones](#2d-bones)
+    - [AI](#ai)
+    - [AR](#ar)
+    - [Animation](#animation)
+    - [Asset Bundle](#asset-bundle)
+    - [Camera](#camera)
+    - [Character Controllers 2D](#character-controllers-2d)
+    - [Character Controllers 3D](#character-controllers-3d)
+    - [Controller Mappings](#controller-mappings)
+    - [Console](#console)
+    - [Database](#database)
+    - [ECS](#ecs)
+    - [Editor](#editor)
+    - [Effect and Shaders](#effect-and-shaders)
+    - [Environment](#environment)
+    - [Framework](#framework)
+    - [Framework - visual](#framework---visual)
+    - [Gameplay](#gameplay)
+    - [Input](#input)
+    - [Level Editor](#level-editor)
+    - [Light](#light)
+    - [Localization](#localization)
+    - [Lua](#lua)
+    - [Materials](#materials)
+    - [Math](#math)
+    - [Meshes](#meshes)
+    - [Monetization](#monetization)
+    - [Networking](#networking)
+    - [Physic](#physic)
+    - [Plugins](#plugins)
+    - [Procedural Generation Systems](#procedural-generation-systems)
+    - [Pooling System](#pooling-system)
+    - [Profobuf](#profobuf)
+    - [Scriptings](#scriptings)
+    - [Services](#services)
+    - [Sounds](#sounds)
+    - [Timeline](#timeline)
+    - [Tweening](#tweening)
+    - [Vehicle](#vehicle)
+    - [UI](#ui)
+    - [Utilities](#utilities)
+    - [Video](#video)
+    - [VR](#vr)
+  - [Assets](#assets)
+    - [Icons](#icons)
+    - [Collections / Forums / Shops](#collections--forums--shops)
+    - [Creation Tools](#creation-tools)
+    - [Audio](#audio)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [To Be organized](#to-be-organized)
+  - [Game Based Learning](#game-based-learning)
 
 [**Assets**](#assets)
 - [Icons](#icons)
@@ -69,6 +83,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 * [Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes) - Collection of Spine runtimes including with Unity3d version.
 
 ### AI
+* [ML Agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit 
 * [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 * [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
 * [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
@@ -87,6 +102,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 * [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
 * [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
+
+### AR
+* [AR Foundation Essentials](https://github.com/dilmerv/UnityARFoundationEssentials) - AR Foundation examples created with AR Foundation
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
@@ -218,8 +236,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Framework - visual
 * [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity
-* [BlueGraph](https://github.com/McManning/BlueGraph)-  like xNode, but on UIElements
 * [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus
+* [BlueGraph](https://github.com/McManning/BlueGraph)-  like xNode, but on UIElements
 * [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D
 
 
