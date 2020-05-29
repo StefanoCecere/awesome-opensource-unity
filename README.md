@@ -16,7 +16,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
     - [Controller Mappings](#controller-mappings)
     - [Console](#console)
     - [Database](#database)
-    - [ECS](#ecs)
+    - [DOTS](#dots)
     - [Editor](#editor)
     - [Effect and Shaders](#effect-and-shaders)
     - [Environment](#environment)
@@ -38,6 +38,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
     - [Procedural Generation Systems](#procedural-generation-systems)
     - [Pooling System](#pooling-system)
     - [Profobuf](#profobuf)
+    - [Scriptable Object](#scriptable-object)
     - [Scriptings](#scriptings)
     - [Services](#services)
     - [Sounds](#sounds)
@@ -47,6 +48,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
     - [UI](#ui)
     - [Utilities](#utilities)
     - [Video](#video)
+    - [Voxel](#voxel)
     - [VR](#vr)
   - [Assets](#assets)
     - [Icons](#icons)
@@ -105,6 +107,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### AR
 * [AR Foundation Essentials](https://github.com/dilmerv/UnityARFoundationEssentials) - AR Foundation examples created with AR Foundation
+* [XRTK](https://github.com/XRTK/XRTK-Core) - The Official Mixed Reality Framework for Unity 
 
 ### Animation
 * [unity-animator-helpers](https://github.com/ashblue/unity-animator-helpers) - A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects
@@ -144,18 +147,22 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Database
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
 
-### ECS
+### DOTS
 * [unity-ecs-navmesh](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
 * [ECS-Tween](https://github.com/Xerios/ECS-Tween) - Simple Unity tweening system using ECS that works with GameObjects!
 * [PlasticTween](https://github.com/PlasticApps/PlasticTween) - Tween Library for Unity3D(ECS+JOBS)
 * [unity-jtween](https://github.com/jeffcampbellmakesgames/unity-jtween) - A job-based tween library for Unity
 * [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS
 * [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
-* [PureECS_2D_Grid_Pathfinding](https://github.com/Omniaffix-Dave/PureECS_2D_Grid_Pathfinding)
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 * [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
-
+* [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding
+* [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview
+* [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
+* [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
+* [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
+* 
 ### Editor
 * [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
@@ -177,7 +184,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Readme](https://github.com/TinyPhoenix/Readme) - Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph) - An Asset Dependency Graph for Unity
 * [MyBox](https://github.com/Deadcows/MyBox) - MyBox is a set of attributes, tools and extensions for Unity 
-
+* [Unity-Finder](https://github.com/litefeel/Unity-Finder) - Find Asset in Unity.
+* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers and extensions for Unity Editor.
+* [enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
+  
 ### Effect and Shaders
 * [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
@@ -248,6 +258,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Quest-System-Pro](https://github.com/devdogio/Quest-System-Pro) - The powerful Quest and Conversation Tree System for Unity - now free and open-source!
 * [lospro](https://github.com/devdogio/lospro) - The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!
 * [Inventory](https://github.com/FarrokhGames/Inventory) - A Diablo 2-style inventory system for Unity3D
+* [RPGCore](https://github.com/Fydar/RPGCore) - RPGCore is a toolkit for producing RPG games and mechanics for Unity
+* [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
+* [NoteEditor](https://github.com/setchi/NoteEditor) - Note editor for rhythm games.
 
 ### Input
 * [Lean Touch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111) - Powerful and complete touch library. paid additional examples available
@@ -265,7 +278,15 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [giles](https://github.com/procore3d/giles) - GILES: A Runtime Level Editor for Unity3D
 * [floorplan](https://github.com/alexismorin/floorplan) - A Sims-Like Unity Level Design Plugin
 * [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity 
-
+* [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - Road Architect for Unity
+* [PrefabPainter](https://github.com/AlexanderAmeye/PrefabPainter) - A basic prefab painter for the Unity3D game engine
+* [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
+* [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
+* [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
+* [Terrain-Stamps](https://github.com/Roland09/Terrain-Stamps) - Stamps for the Unity Terrain Stamp Tool.
+* [StampToolExtended](https://github.com/Roland09/StampToolExtended) - Extended version of the Unity Terrain Stamp Tool.
+* [YAPP - Yet Another Prefab Painter](https://github.com/Roland09/PrefabPainter) - Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
+  
 ### Light
 * [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
 * [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene
@@ -347,7 +368,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [unity-procedural-flower](https://github.com/mattatz/unity-procedural-flower) - Procedural flower generator for Unity.
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Procedural generation library for Unity
 * [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse/) - Walk through an infinite, procedurally generated city
-
+* [ProceduralLevelGenerator-Unity](https://github.com/OndrejNepozitek/ProceduralLevelGenerator-Unity) - Unity plugin from procedural dungeon generation
+  
 ### Pooling System
 * [Unity-QuickPool](https://github.com/densylkin/QuickPool) - Simple pooling toolkit for Unity game engine
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager for Unity
@@ -358,9 +380,19 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [protobuf-net](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET
 * [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them
 
+### Scriptable Object
+* [unity-atoms](https://github.com/AdamRamberg/unity-atoms) - Tiny modular pieces utilizing the power of Scriptable Objects
+* [Scriptable-Framework](https://github.com/pablothedolphin/Scriptable-Framework) - A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.
+* [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
+* [SOFlow](https://github.com/BLUDRAG/SOFlow) - A ScriptableObject oriented design SDK.
+* [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
+
 ### Scriptings
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 * [unity-python](https://github.com/exodrifter/unity-python) - Python plugin for Unity3D
+* [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games! 
+* [UniScript](https://github.com/pjc0247/UniScript) - Brings C# scripting into Unity which acts as native code.
+* [SlowSharp](https://github.com/pjc0247/SlowSharp) - C# interpreter written in C#
 
 ### Services
 * [Google Play Games plugin for Unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
@@ -371,6 +403,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise
 * [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity
+* [MusicEngine](https://github.com/geekdrums/MusicEngine) - make music synced game with Unity / ADX2 / Wwise
 
 ### Timeline
 * [SpineTimeline](https://github.com/5argon/SpineTimeline) - Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline
@@ -411,6 +444,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [CharTweener](https://github.com/mdechatech/CharTweener) - Unity3D - DOTween extensions for tweening TextMeshPro characters
 * [UnityRecyclingListView](https://github.com/sinbad/UnityRecyclingListView) - A fast scrolling list component for Unity UI which recycles its child elements
 * [sci-fi-ui](https://github.com/devdogio/sci-fi-ui) - The uGUI Sci-Fi UI Design for Unity - now free and open-source!
+* [LiquidSwipeUnity](https://github.com/FaizanDurrani/LiquidSwipeUnity) - Butter smooth full page swiping animation with a masked wave effect in Unity
+* [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) - This components and shaders allows you to add rounded corners to UI element
+* [RapidGUI](https://github.com/fuqunaga/RapidGUI) - Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
+* [ugui-mvvm](https://github.com/jbruening/ugui-mvvm) - Unity3D uGUI mvvm databinding via the standard IXChanged interfaces used in wpf (INotifyPropertyChanged, INotifyCollectionChanged, etc)
+* [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. 
+* [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more
+* [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
 
 ### Utilities
 * [LINQ to GameObject](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - Traverse GameObject Hierarchy by LINQ
@@ -481,6 +521,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Video
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo
 
+### Voxel
+* [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
+* [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity
+
 ### VR
 * [VRTK](https://github.com/thestonefox/VRTK) - A productive VR Toolkit for rapidly building VR solutions in Unity3d.
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - A virtual reality interaction system for unity based on physics.
@@ -513,7 +557,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 * [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 * [AssetForge](https://kenney.itch.io/assetforge) - Easily create simple assets in seconds (Paid).
 * [BFXR](https://www.bfxr.net/) - Make sound effects for computer games (Flash required)
-* [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
 * [Mixamo](https://www.mixamo.com/) - Free to use animation mixing tool with free animations. Not allowed to use in open source projects.
 
 ### Audio
