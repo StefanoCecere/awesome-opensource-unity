@@ -321,6 +321,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 * [Google Mobile Ads Unity Plugin](https://github.com/googleads/googleads-mobile-unity) - Official Unity Plugin for the Google Mobile Ads SDK
 
 ### Networking
+* [FishNet](https://github.com/firstgeargames/FishNet) - Fish-Networking: Unity Networking Evolved is an easy to use, high performant, feature-rich Unity based networking solution. FishNet is free while offering features previously only seen in paid options. 
 * [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
 * [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
