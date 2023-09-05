@@ -295,6 +295,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Localization
 * [Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504) Quickly add multi-language support. text, sounds, load CSV
+* [Localization System](https://github.com/SMahdiFaghih/Localization-System) Localization System for Unity can be used for both RTL and LTR languages (based on CSV file), Images, Audios, LayoutGroups and RectTransforms with detailed Documentation.
 
 ### Lua
 * [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
