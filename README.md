@@ -119,6 +119,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 
 ### AI
 - [ML Agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit 
+- 🎉 [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP (Goal Oriented Action Planning) system for Unity.
 - [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 - [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity
 - [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#
@@ -137,6 +138,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 - [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
 - [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
+
+### AI (editor tools)
+- 🎉 [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
 
 ### AR
 - [AR Foundation Essentials](https://github.com/dilmerv/UnityARFoundationEssentials) - AR Foundation examples created with AR Foundation
