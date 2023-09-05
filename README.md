@@ -1,5 +1,4 @@
-# Awesome Opensource Unity Resources
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Opensource Unity Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
@@ -12,6 +11,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
   - [2D](#2d)
   - [2D Bones](#2d-bones)
   - [AI](#ai)
+  - [AI Tools](#ai-tools)
   - [AR](#ar)
   - [Animation](#animation)
   - [Asset Bundle](#asset-bundle)
@@ -56,6 +56,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
   - [Voxel](#voxel)
   - [VR](#vr)
 - [Assets](#assets)
+  - [2D assets](#2d-assets)
   - [Icons](#icons)
   - [Collections / Forums](#collections--forums--shops)
   - [Creation Tools](#creation-tools)
@@ -140,7 +141,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D.
 - [behaviac](https://github.com/Tencent/behaviac) - Behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
 
-### AI (editor tools)
+### AI Tools
 
 - 🎉 [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
 
@@ -212,9 +213,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### EdTech and Game Based Learning
 
-- [RAGE ecosystem](http://rageproject.eu).
-- [uAdventure](https://github.com/e-ucm/uAdventure) Serious game editor for Unity based on eAdventure. .
-- [Unity Tracker](https://github.com/e-ucm/unity-tracker) Unity gleaner tracker that uses csharp-tracker / RAGE.
+- [RAGE ecosystem](http://rageproject.eu)
+- [uAdventure](https://github.com/e-ucm/uAdventure) - Serious game editor for Unity based on eAdventure.
+- [Unity Tracker](https://github.com/e-ucm/unity-tracker) - Unity gleaner tracker that uses csharp-tracker / RAGE.
 
 ### Editor
 
@@ -222,7 +223,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 - [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity.
 - [Reorderable Inspector](https://github.com/ChemiKhazi/ReorderableInspector) - Automatic reorderable lists for Unity game engine components.
-- [Vexe Framework (VFW)](https://github.com/vexe/VFW) - an editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
+- [Vexe Framework (VFW)](https://github.com/vexe/VFW) - An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 - [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
 - [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D.
 - [property-drawer-collection](https://github.com/anchan828/property-drawer-collection).
