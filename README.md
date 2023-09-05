@@ -3,6 +3,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 
 [**Open Source Repositories**](#open-source-repositories)
 - [Awesome opensource Unity packages](#awesome-opensource-unity-packages)
+  - [Games](#games)
   - [Open Source Repositories](#open-source-repositories)
     - [2D](#2d)
     - [2D Bones](#2d-bones)
@@ -136,6 +137,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 - [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D
 - [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)
+
+### AI (editor tools)
+- 🎉 [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
 
 ### AR
 - [AR Foundation Essentials](https://github.com/dilmerv/UnityARFoundationEssentials) - AR Foundation examples created with AR Foundation
@@ -522,7 +526,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
 - [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 - [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
-- [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
+- [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity
 - [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child
 - [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
