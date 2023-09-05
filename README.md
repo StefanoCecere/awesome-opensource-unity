@@ -1,9 +1,10 @@
 # Awesome opensource Unity packages
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
+[**Games**](#games)
+
 [**Open Source Repositories**](#open-source-repositories)
 - [Awesome opensource Unity packages](#awesome-opensource-unity-packages)
-  - [Games](#games)
   - [Open Source Repositories](#open-source-repositories)
     - [2D](#2d)
     - [2D Bones](#2d-bones)
