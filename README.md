@@ -1,6 +1,11 @@
 # Awesome opensource Unity packages
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
+👉🏼 **Please submit a PR for any obsolete, updated or new entry!** _You can do it just editing this README and GitHub will do everything._  
+**Let's keep this list awesome!**
+
+---
+
 [**Games**](#games)
 
 [**Open Source Repositories**](#open-source-repositories)
@@ -531,7 +536,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
 - [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 - [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
-- [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity (alpha)
+- [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity
 - [SerializableCallback](https://github.com/Siccity/SerializableCallback) - UnityEvent and System.Func had a child
 - [bitstrap](https://github.com/bitcake/bitstrap) - BitStrap is BitCake's collection of Unity tools that improve our workflow
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
