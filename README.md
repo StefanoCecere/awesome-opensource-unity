@@ -1,5 +1,4 @@
-# Awesome Opensource Unity Resources
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Opensource Unity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
@@ -407,8 +406,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 - [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net.
 - [MLAPI](https://github.com/MidLevel/MLAPI) - A game networking framework built for the Unity Engine to abstract game networking concepts.
-- [Networker](https://github.com/MarkioE/Networker)
-A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
+- [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
 - [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d).
 - [UnityWebSocket](https://github.com/Unity3dAzure/UnityWebSocket) - Web Socket client for Unity.
