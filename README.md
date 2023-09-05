@@ -90,10 +90,8 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 - [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
 - [Match-3 game](https://github.com/dgkanatsios/MatchThreeGame) - A match-3 game in Unity (like Candy Crush and Bejeweled).
 
-### Role
+### RPG
 - [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) - Darkest Dungeon port in Unity. Almost completely identical to the original.
-
-##### RPG
 - [Hogwarts](https://github.com/OpenHogwarts/hogwarts) - A Hogwarts (Harry Potter) open sandbox game made in Unity.
 
 ### Runner
