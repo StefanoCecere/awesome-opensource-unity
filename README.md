@@ -106,7 +106,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 ### Strategy
 - [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
 
-## Open Source Repositories
+## Open Source Packages
 ### 2D
 - [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
 - [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy
@@ -586,6 +586,15 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ## Assets
 
+### 2D assets
+
+- [kenney.nl](https://kenney.nl/)
+- [opengameart.org](https://opengameart.org/)
+- [glitchthegame.com](https://glitchthegame.com/public-domain-game-art/)
+- [itch.io/game-assets/free](https://itch.io/game-assets/free)
+- [gameart2d.com](https://gameart2d.com/freebies.html)
+- [gameartguppy.com](http://gameartguppy.com/)
+
 ### Icons
 
 - [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works)
@@ -612,6 +621,13 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ### Audio
 
 - [Sonniss GDC 2018 Pack](https://sonniss.com/gameaudiogdc18/) - Free to use 30GB worth of audio files
+- [unminus.com](https://unminus.com/)
+- [dig.ccmixter.org](http://dig.ccmixter.org/)
+- [freesound.org](https://freesound.org/)
+- [freesfx.co.uk](https://freesfx.co.uk/)
+- [zapsplat.com](https://zapsplat.com/)
+- [gamesounds.xyz](https://gamesounds.xyz)
+- [freemusicarchive.org](https://freemusicarchive.org/)
 
 ## Articles
 - [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
