@@ -1,4 +1,5 @@
-# Awesome Opensource Unity Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Opensource Unity Resources
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
@@ -22,6 +23,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
   - [Console](#console)
   - [Database](#database)
   - [DOTS](#dots)
+  - [EdTech and Game Based Learning](#edtech-and-game-based-learning)
   - [Editor](#editor)
   - [Effect and Shaders](#effect-and-shaders)
   - [Environment](#environment)
@@ -58,7 +60,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 - [Assets](#assets)
   - [2D assets](#2d-assets)
   - [Icons](#icons)
-  - [Collections / Forums](#collections--forums--shops)
+  - [Collections](#collections)
   - [Creation Tools](#creation-tools)
   - [Audio](#audio)
 - [Articles](#articles)
@@ -226,7 +228,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Vexe Framework (VFW)](https://github.com/vexe/VFW) - An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.
 - [Tidy Up](https://github.com/Nutshell-Hack/Tidy-Up) - Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.
 - [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - Advanced PSD importer for Unity3D.
-- [property-drawer-collection](https://github.com/anchan828/property-drawer-collection).
+- [property-drawer-collection](https://github.com/anchan828/property-drawer-collection)
 - [unity-symlink-utility](https://github.com/karl-/unity-symlink-utility) - A small extension that adds a menu item to add folders as symlinks in Unity.
 - [UnityDefineManager](https://github.com/karl-/UnityDefineManager) - Easily manage global defines in Unity.
 - [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) - This package enables interactive previews of Texture3D assets in Unity's Inspector window.
@@ -247,9 +249,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 - [Unity 5 Effects](https://github.com/i-saint/Unity5Effects) - Effect storage space for Unity 5.
 - [Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity.
-- [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - frosted glass material made in unity.
+- [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - Frosted glass material made in unity.
 - [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect.
-- [Helicopter effect](https://twitter.com/unity3dexpert/status/1050240849085431808).
+- [Helicopter effect](https://twitter.com/unity3dexpert/status/1050240849085431808)
 - [SSMS](https://github.com/OCASM/SSMS) - Screen space multiple scattering for Unity.
 - [KinoGlitch](https://github.com/keijiro/KinoGlitch) - Video glitch effects for Unity.
 - [Temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+.
@@ -396,7 +398,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation.
 - [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 - [Mirror](https://mirror-networking.com/) - a _high level_ Networking API for Unity, supporting different _low level_.
-- [Transports](https://mirror-networking.com/Transports/).
+- [Transports](https://mirror-networking.com/Transports/)
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) - Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET.
 - [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) - Higher level implementation for LiteNetLib.
@@ -504,7 +506,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [MiniMap](https://github.com/Area730/MiniMap) - Unity3D mini map (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729 ).
 - [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect) - UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
 - [MaterialUI](https://github.com/InvexGames/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
-- [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions).
+- [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 - [EnhancedScrollView](https://github.com/tinyantstudio/EnhancedScrollView) - Cool 3d scoll view for Unity(NGUI 3D UGUI support).
 - [Beautiful Text Outline for Unity UI](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
 - [uGUI-Effect-Tool](https://github.com/WestHillApps/uGUI-Effect-Tool) - Vertex color UI Effect for Unity UI (uGUI).
@@ -603,7 +605,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 
 ### Voxel
 
-- [MagicaVoxel](https://ephtracy.github.io/) Free to use Voxel editor (even for commercial).
+- [MagicaVoxel](https://ephtracy.github.io/) - Free to use Voxel editor (even for commercial).
 - [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity.
 
 ### VR
@@ -631,10 +633,10 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 ### Icons
 
 - [I made 700+ RPG icons free for use for your game](https://www.reddit.com/r/IndieGaming/comments/ifmie/i_made_700_rpg_icons_free_for_use_/) - 700+ RPG Icons(The _filesonic_ URL ending with "Lorc_RPG_icons.zip" still works).
-- [game-icons.net](https://game-icons.net) 3443+ Game Icons licensed under CC BY 3.0.
+- [game-icons.net](https://game-icons.net) - 3443+ Game Icons licensed under CC BY 3.0.
 - [EffectCore's VFX Packs](https://assetstore.unity.com/publishers/25749) - Paid AAA visual effects.
 
-### Collections / Forums / Shops
+### Collections
 
 - [Unitylist](https://unitylist.com/) - The best GitHub Unity repositories search engine.
 - [Armedunity](https://armedunity.com/) - Shooter focused forum.
