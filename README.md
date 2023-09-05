@@ -8,7 +8,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 ## Contents
 
 - [Games](#games)
-- [Open Source Repositories](#open-source-packages)
+- [Open Source Packages](#open-source-packages)
   - [2D](#2d)
   - [2D Bones](#2d-bones)
   - [AI](#ai)
@@ -132,13 +132,13 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 - [unity-path-finding](https://github.com/mattatz/unity-path-finding) - Shortest path finding with Dijkstra's algorithm for Unity.
 - [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D.
 - [fluid-behavior-tree](https://github.com/ashblue/fluid-behavior-tree) - A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation.
-- [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) -.
+- [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) - Very good and easy FSM
 An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility.
 - [Path-Creator](https://github.com/SebLague/Path-Creator) - Path creation asset for Unity game development.
 - [NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding.
 - [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 - [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D.
-- [behaviac](https://github.com/Tencent/behaviac) - behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
+- [behaviac](https://github.com/Tencent/behaviac) - Behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
 
 ### AI (editor tools)
 
@@ -166,7 +166,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Character Controllers 2D
 
-- [CharacterController2D](https://github.com/prime31/CharacterController2D) - is similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
+- [CharacterController2D](https://github.com/prime31/CharacterController2D) - Similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
 - [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
 
 ### Character Controllers 3D
@@ -177,12 +177,12 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Controller Mappings
 
-- [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/).
-- [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256).
-- [Nintendo Joy Con](https://www.reddit.com/r/Unity3D/comments/60wh7g/nintendo_switch_joycon_controller_mapped_for_unity/).
-- [Nintendo Pro Controller](https://answers.unity.com/questions/1419842/nintendo-switch-pro-controller-mapping.html).
-- [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller).
-- [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html).
+- [Dualshock 3 (PS3)](https://forum.unity.com/threads/ps3-button-map.89288/)
+- [Dualshock 4 (PS4)](https://twitter.com/erik_tellier/status/1071457079854944256)
+- [Nintendo Joy Con](https://www.reddit.com/r/Unity3D/comments/60wh7g/nintendo_switch_joycon_controller_mapped_for_unity/)
+- [Nintendo Pro Controller](https://answers.unity.com/questions/1419842/nintendo-switch-pro-controller-mapping.html)
+- [Xbox 360](http://wiki.unity3d.com/index.php?title=Xbox360Controller)
+- [Xbox One](https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html)
 
 ### Console
 
@@ -557,8 +557,8 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity.
 - [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
 - [fullserializer](https://github.com/jacobdufault/fullserializer) - A robust JSON serialization framework that just works with support for all major Unity export platforms.
-- [IMP](https://github.com/xraxra/IMP) - billboard imposter baking for Unity.
-- [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
+- [IMP](https://github.com/xraxra/IMP) - Billboard imposter baking for Unity.
+- [UDBase](https://github.com/KonH/UDBase) - Module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.
 - [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project.
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity.
 - [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity! (Read-only).
@@ -620,12 +620,12 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 
 ### 2D assets
 
-- [kenney.nl](https://kenney.nl/).
-- [opengameart.org](https://opengameart.org/).
-- [glitchthegame.com](https://glitchthegame.com/public-domain-game-art/).
-- [itch.io/game-assets/free](https://itch.io/game-assets/free).
-- [gameart2d.com](https://gameart2d.com/freebies.html).
-- [gameartguppy.com](http://gameartguppy.com/).
+- [kenney.nl](https://kenney.nl/)
+- [opengameart.org](https://opengameart.org/)
+- [glitchthegame.com](https://glitchthegame.com/public-domain-game-art/)
+- [itch.io/game-assets/free](https://itch.io/game-assets/free)
+- [gameart2d.com](https://gameart2d.com/freebies.html)
+- [gameartguppy.com](http://gameartguppy.com/)
 
 ### Icons
 
@@ -635,11 +635,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 
 ### Collections / Forums / Shops
 
-- [Unitylist](https://unitylist.com/) - the best GitHub Unity repositories search engine.
+- [Unitylist](https://unitylist.com/) - The best GitHub Unity repositories search engine.
 - [Armedunity](https://armedunity.com/) - Shooter focused forum.
-- [itch.io](https://itch.io/game-assets).
-- [Game Assets](https://game-asset.net/).
-- [Game Dev Market](https://www.gamedevmarket.net/).
+- [itch.io](https://itch.io/game-assets)
+- [Game Assets](https://game-asset.net/)
+- [Game Dev Market](https://www.gamedevmarket.net/)
 - [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
 
 ### Creation Tools
@@ -652,20 +652,20 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 ### Audio
 
 - [Sonniss GDC 2018 Pack](https://sonniss.com/gameaudiogdc18/) - Free to use 30GB worth of audio files.
-- [unminus.com](https://unminus.com/).
-- [dig.ccmixter.org](http://dig.ccmixter.org/).
-- [freesound.org](https://freesound.org/).
-- [freesfx.co.uk](https://freesfx.co.uk/).
-- [zapsplat.com](https://zapsplat.com/).
-- [gamesounds.xyz](https://gamesounds.xyz).
-- [freemusicarchive.org](https://freemusicarchive.org/).
+- [unminus.com](https://unminus.com/)
+- [dig.ccmixter.org](http://dig.ccmixter.org/)
+- [freesound.org](https://freesound.org/)
+- [freesfx.co.uk](https://freesfx.co.uk/)
+- [zapsplat.com](https://zapsplat.com/)
+- [gamesounds.xyz](https://gamesounds.xyz)
+- [freemusicarchive.org](https://freemusicarchive.org/)
 
 ## Articles
 
-- [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php).
-- [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/).
-- [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/).
+- [50 Tips and Best Practices for Unity (2016 Edition)](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+- [Unity Package Manager 2018.3+](https://blogs.unity3d.com/2018/05/09/unity-packages-life-cycle/)
+- [Cracked Ice Shader](https://80.lv/articles/how-to-build-cracked-ice-in-material-editor/)
 
 ## Books
 
-- [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available.
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Free and Paid available.
