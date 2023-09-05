@@ -288,7 +288,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Environment
 
 - [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game.
-- [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time.
+- [hedera](https://github.com/radiatoryang/hedera) - Paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time.
 - [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
 
 ### Framework
@@ -305,8 +305,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Framework - visual
 
 - [xNode](https://github.com/Siccity/xNode) - Lets you view and edit node graphs inside Unity.
-- [Fungus](https://github.com/snozbot/fungus) - https://github.com/snozbot/fungus.
-- [BlueGraph](https://github.com/McManning/BlueGraph)-  like xNode, but on UIElements.
+- [Fungus](https://github.com/snozbot/fungus) - Awesome and powerful Adventures and Visual novel engine.
+- [BlueGraph](https://github.com/McManning/BlueGraph) -  Like xNode, but on UIElements.
 - [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor framework for Unity3D.
 
 ### Gameplay
@@ -347,14 +347,14 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Light
 
 - [Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity.
-- [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - it is simple tool for Unity3d and it help you easily place Light Probes in your scene.
+- [Simple Light Probe Placer](https://github.com/AlexanderVorobyov/simple-light-probe-placer) - A simple tool for Unity3d and it help you easily place Light Probes in your scene.
 - [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity.
 - [Rimlight](https://github.com/AdultLink/Rimlight) - Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!.
 
 ### Localization
 
-- [Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504) Quickly add multi-language support. text, sounds, load CSV.
-- [Localization System](https://github.com/SMahdiFaghih/Localization-System) Localization System for Unity can be used for both RTL and LTR languages (based on CSV file), Images, Audios, LayoutGroups and RectTransforms with detailed Documentation.
+- [Lean Localization](https://assetstore.unity.com/packages/tools/localization/lean-localization-28504) - Quickly add multi-language support. text, sounds, load CSV.
+- [Localization System](https://github.com/SMahdiFaghih/Localization-System) - Localization System for Unity can be used for both RTL and LTR languages (based on CSV file), Images, Audios, LayoutGroups and RectTransforms with detailed Documentation.
 
 ### Lua
 
@@ -366,7 +366,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Materials
 
-- [Public Domain Textures](https://publicdomaintextures.com) tons of 8K PBR Materials under CC0 License.
+- [Public Domain Textures](https://publicdomaintextures.com) - Tons of 8K PBR Materials under CC0 License.
 
 ### Math
 
@@ -388,7 +388,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Networking
 
 - [FishNet](https://github.com/firstgeargames/FishNet) - Fish-Networking: Unity Networking Evolved is an easy to use, high performant, feature-rich Unity based networking solution. FishNet is free while offering features previously only seen in paid options. .
-- [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
+- [UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - A socket.io client for unity3d.
 - [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server.
 - [Hazel-Networking](https://github.com/DarkRiftNetworking/Hazel-Networking) - A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.
 - [MassiveNet](https://github.com/jakevn/MassiveNet) - Unity3d UDP networking library focused on high-CCU, multi-server architecture.
@@ -407,7 +407,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 - [SocketIoClientDotNet](https://github.com/Quobject/SocketIoClientDotNet) - Socket.IO Client Library for .Net.
 - [MLAPI](https://github.com/MidLevel/MLAPI) - A game networking framework built for the Unity Engine to abstract game networking concepts.
-- [Networker](https://github.com/MarkioE/Networker) -.
+- [Networker](https://github.com/MarkioE/Networker)
 A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [SmartFoxServer 2X](http://docs2x.smartfoxserver.com/ExamplesUnity/introduction) - A comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more.
 - [Colyseus](http://colyseus.io/) - Multiplayer Game Server for Node.js. [Demo with Unity3D](https://github.com/gamestdio/colyseus-unity3d).
@@ -477,11 +477,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 
 ### Sounds
 
-- [usfxr](https://github.com/zeh/usfxr) - a C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
+- [usfxr](https://github.com/zeh/usfxr) - A C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.
 - [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine.
 - [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise.
 - [Reaktion](https://github.com/keijiro/Reaktion) - Audio reactive animation toolkit for Unity.
-- [MusicEngine](https://github.com/geekdrums/MusicEngine) - make music synced game with Unity / ADX2 / Wwise.
+- [MusicEngine](https://github.com/geekdrums/MusicEngine) - Make music synced game with Unity / ADX2 / Wwise.
 
 ### Timeline
 
@@ -519,7 +519,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.
 - [ShinyEffectForUGUI](https://github.com/mob-sakai/ShinyEffectForUGUI) - Shiny effect of uGUI, which does not need mask or normal map.
 - [FancyScrollView](https://github.com/setchi/FancyScrollView) - A scrollview component that can be implemented flexible flexible animation.
-- [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - "I made the Juicy Health Bar from @reuno's Unite LA talk. It's pretty great!".
+- [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - A Juicy Health Bar from @reuno's Unite LA talk.
 - [UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 - [PageTurningUIEffect](https://github.com/lobeyjon/PageTurningUIEffect) - A page turning UI effect made with unity, the paper deformation is determined by the pins' position on it.
 - [Unity-WinForms](https://github.com/Meragon/Unity-WinForms) - Windows Forms wrapper for Unity.
