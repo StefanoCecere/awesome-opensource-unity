@@ -1,6 +1,8 @@
 # Awesome opensource Unity packages
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
+[**Games**](#games)
+
 [**Open Source Repositories**](#open-source-repositories)
 - [Awesome opensource Unity packages](#awesome-opensource-unity-packages)
   - [Open Source Repositories](#open-source-repositories)
@@ -69,6 +71,37 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 [**Articles**](#articles)
 
 [**Books**](#books)
+
+## Games
+### Adventure
+- [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - An open source reimplementation of GTA San Andreas game engine in Unity.
+
+### Educational and Social Impact
+- 🎉 [Antura and the Letters](https://github.com/vgwb/Antura/) - the award winning open source literacy and language learning game for kids
+- 🎉 [La Noria](https://github.com/vgwb/LaNoria) - an open source videogame about social innovation in Malaga
+
+### Puzzle
+- [Nodulus](https://github.com/Hyperparticle/nodulus) - A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
+- [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) - An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
+- [Match-3 game](https://github.com/dgkanatsios/MatchThreeGame) - A match-3 game in Unity (like Candy Crush and Bejeweled).
+
+### Role
+- [Darkest Dungeon](https://github.com/Reinisch/Darkest-Dungeon-Unity) - Darkest Dungeon port in Unity. Almost completely identical to the original.
+
+##### RPG
+- [Hogwarts](https://github.com/OpenHogwarts/hogwarts) - A Hogwarts (Harry Potter) open sandbox game made in Unity.
+
+### Runner
+- [InfiniteRunner3D](https://github.com/dgkanatsios/InfiniteRunner3D) - Creating an infinite 3D runner game in Unity.
+
+### Sandbox
+- [CubeWorld](https://github.com/federicodangelo/CubeWorld) - Minecraft like game made in Unity.
+
+### Shooter
+- [Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) - A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.
+
+### Strategy
+- [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
 
 ## Open Source Repositories
 ### 2D
