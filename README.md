@@ -1,12 +1,11 @@
-# Awesome opensource Unity packages
-
+# Awesome Opensource Unity Resources
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
 👉🏼 **Please submit a PR for any obsolete, updated or new entry!** _You can do it just editing this README and GitHub will do everything._ **Let's keep this list awesome!**.
 
----
+## Contents
 
 - [Games](#games)
 - [Open Source Repositories](#open-source-packages)
@@ -65,6 +64,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 - [Books](#books)
 
 ## Games
+
 ### Adventure
 
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - An open source reimplementation of GTA San Andreas game engine in Unity.
@@ -109,7 +109,7 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 - [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.
 - [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.
 - [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites.
-- [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - make mesh like line, polygon, etc in unity3d.
+- [DataRenderer2D](https://github.com/geniikw/DataRenderer2D) - Make mesh like line, polygon, etc in unity3d.
 - [UnitySpline2D](https://github.com/sinbad/UnitySpline2D) - 2D spline utility for Unity.
 
 ### 2D Bones
@@ -166,7 +166,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Character Controllers 2D
 
-- [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
 - [CharacterController2D](https://github.com/prime31/CharacterController2D) - is similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
 - [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
 
@@ -204,7 +203,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [KNN](https://github.com/ArthurBrussee/KNN) - Fast K-Nearest Neighbour Library for Unity DOTS.
 - [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites.
 - [NativeCollections](https://github.com/jacksondunstan/NativeCollections) - Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection.
-- [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
 - [Hydrogen.Entities](https://github.com/periodyctom/Hydrogen.Entities) - A collection of helpers for work with Unity's ECS framework, used in our games.
 - [Unity-2D-Pathfinding-Grid-ECS-Job](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) - ECS Burst Job System 2D Pathfinding.
 - [EntitySelection](https://github.com/JonasDeM/EntitySelection) - A minimal solution for selecting entities in the unity sceneview.
@@ -265,7 +263,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 - [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - Shader visual scripting.
 - [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader.
-- [Texture Panner](https://github.com/AdultLink/TexturePanner) - Awesome shader collection.
 - [ToonShading](https://github.com/Kink3d/ToonShading) - A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 - [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) - A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.
 - [SpriteGlow](https://github.com/Elringus/SpriteGlow) - A sprite glow effect for Unity game engine.
@@ -280,7 +277,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Unity-Shaders](https://github.com/knapeczadam/Unity-Shaders) - Shader demo - More than 300 examples.
 - [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity.
 - [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) - This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3.
-- [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) - A Delaunay/Voronoi library for Unity, and a simple destruction effect.
 - [BNAO](https://github.com/Fewes/BNAO) - A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 - [ezy-slice](https://github.com/DavidArayan/ezy-slice) - An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 - [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) - Nvidia's PCSS soft shadow algorithm implemented in Unity.
@@ -341,9 +337,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity .
 - [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - Road Architect for Unity.
 - [PrefabPainter](https://github.com/AlexanderAmeye/PrefabPainter) - A basic prefab painter for the Unity3D game engine.
-- [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game.
-- [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time.
-- [Photosynthesizer](https://github.com/alexismorin/Photosynthesizer) - Unity plugin to procedurally sprout foliage throughout your scene.
 - [Terrain-Stamps](https://github.com/Roland09/Terrain-Stamps) - Stamps for the Unity Terrain Stamp Tool.
 - [StampToolExtended](https://github.com/Roland09/StampToolExtended) - Extended version of the Unity Terrain Stamp Tool.
 - [YAPP - Yet Another Prefab Painter](https://github.com/Roland09/PrefabPainter) - Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
@@ -363,7 +356,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Lua
 
 - [slua (Recommend)](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
-- [xLua (Recommend)](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.
+- [xLua (Recommend)](https://github.com/Tencent/xLua) - xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, macOS, etc.
 - [UniLua](https://github.com/xebecnan/UniLua) - A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.
 - [MoonSharp](https://github.com/xanathar/moonsharp/) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
 - [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - LuaProfiler-For-Unity.
@@ -431,7 +424,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 ### Plugins
 
 - [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - This Reign API is a cross-platform, unified API for the Unity game engine.
-- [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and OS X (Windows is not supported for now).
+- [unity-webview](https://github.com/gree/unity-webview) - A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and macOS (Windows is not supported for now).
 - [google-analytics-plugin-for-unity](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics plugin for the Unity game creation system.
 - [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) - A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.
 - [Unity3D Android notification plugin](https://github.com/Agasper/unity-android-notifications) - Unity3D Plugin for Android local notifications with example project.
@@ -537,7 +530,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [ugui-mvvm](https://github.com/jbruening/ugui-mvvm) - Unity3D uGUI mvvm databinding via the standard IXChanged interfaces used in wpf (INotifyPropertyChanged, INotifyCollectionChanged, etc).
 - [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. .
 - [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more.
-- [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend).
+- [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
 
 ### Utilities
 
@@ -555,13 +548,11 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 - [InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it.
 - [UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity.
 - [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.
-- [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity.
 - [UnityPSDLayoutTool](https://github.com/GlitchEnzo/UnityPSDLayoutTool) - A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.
 - [Rant](https://github.com/TheBerkin/rant) - Robust text engine for procedural generation and postprocessing.
 - [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources.
 - [mmd-for-unity](https://github.com/mmd-for-unity-proj/mmd-for-unity) - MikuMikuDance for Unity.
 - [Unity.Library.eppz](https://github.com/eppz/Unity.Library.eppz) - Collection of libraries for Unity.
-- [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
 - [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles.
 - [odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity.
 - [UnityAsyncRoutines](https://github.com/TorVestergaard/UnityAsyncRoutines) - An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.
