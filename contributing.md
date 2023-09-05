@@ -14,5 +14,6 @@ Please ensure your pull request adheres to the following:
 - Make sure your additions are in alphabetical order. This includes the headers and items themselves.
 - Ensure that assets you submit are of high quality, documented well, and are recently maintained. It also helps if they're popular so I can research them before adding them to the list.
 - This is not meant to be used as a list to advertise your own assets. Free or open-source assets should be prioritized over paid assets if they are of similar quality and feature sets.
+- run https://github.com/sindresorhus/awesome-lint before submitting
 
 Thanks!
