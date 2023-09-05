@@ -261,6 +261,11 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) - Nvidia's PCSS soft shadow algorithm implemented in Unity
 - [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
 
+### EdTech and Game Based Learning
+- [RAGE ecosystem](http://rageproject.eu)
+- [uAdventure](https://github.com/e-ucm/uAdventure) Serious game editor for Unity based on eAdventure. 
+- [Unity Tracker](https://github.com/e-ucm/unity-tracker) Unity gleaner tracker that uses csharp-tracker / RAGE
+
 ### Environment
 - [roadbuilder](https://github.com/guotata1996/roadbuilder) - Easy-to-build realistic roads in Unity. Foundation of any simcity game
 - [hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
@@ -603,10 +608,3 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 ## Books
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
 
----
-## To Be organized
-
-## Game Based Learning
-- [RAGE ecosystem](http://rageproject.eu)
-- [uAdventure](https://github.com/e-ucm/uAdventure) Serious game editor for Unity based on eAdventure. 
-- [Unity Tracker](https://github.com/e-ucm/unity-tracker) Unity gleaner tracker that uses csharp-tracker / RAGE
