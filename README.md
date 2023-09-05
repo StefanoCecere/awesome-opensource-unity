@@ -74,7 +74,13 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 ### Educational and Social Impact
 
 - 🎉 [Antura and the Letters](https://github.com/vgwb/Antura/) - the award winning open source literacy and language learning game for kids.
+- [Idiomatic](https://github.com/cyt1984/Idiomatic) - Aan educational game developed to teaching English to native Portuguese speakers.
 - 🎉 [La Noria](https://github.com/vgwb/LaNoria) - an open source videogame about social innovation in Malaga.
+
+### Cards
+
+- 🎉 [Card-Game-Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Create, Share, and Play
+- 🎉 [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity) - A LEGACY Unity project to help build Pokémon-esque RPG games.
 
 ### Puzzle
 
