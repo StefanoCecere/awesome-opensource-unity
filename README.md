@@ -199,7 +199,12 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Easy-Road-3D-ECS-Traffic](https://github.com/Blissgig/Easy-Road-3D-ECS-Traffic) - Unity DOTS/ECS traffic using Easy Roads 3D for the data
 - [IcSkillSystem](https://github.com/yika-aixi/IcSkillSystem) - A simple and reusable skill system
 - [EntitiesBT](https://github.com/quabug/EntitiesBT) - Behavior Tree for Unity ECS (DOTS) framework
-- 
+
+### EdTech and Game Based Learning
+- [RAGE ecosystem](http://rageproject.eu)
+- [uAdventure](https://github.com/e-ucm/uAdventure) Serious game editor for Unity based on eAdventure. 
+- [Unity Tracker](https://github.com/e-ucm/unity-tracker) Unity gleaner tracker that uses csharp-tracker / RAGE
+
 ### Editor
 - [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 - [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
@@ -612,11 +617,3 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 
 ## Books
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) Free and Paid available
-
----
-## To Be organized
-
-## Game Based Learning
-- [RAGE ecosystem](http://rageproject.eu)
-- [uAdventure](https://github.com/e-ucm/uAdventure) Serious game editor for Unity based on eAdventure. 
-- [Unity Tracker](https://github.com/e-ucm/unity-tracker) Unity gleaner tracker that uses csharp-tracker / RAGE
