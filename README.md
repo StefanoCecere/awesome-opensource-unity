@@ -1,4 +1,7 @@
 # Awesome opensource Unity packages
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
 👉🏼 **Please submit a PR for any obsolete, updated or new entry!** _You can do it just editing this README and GitHub will do everything._  
@@ -6,9 +9,9 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 
 ---
 
-[**Games**](#games)
+[Games](#games)
 
-[**Open Source Repositories**](#open-source-repositories)
+[Open Source Repositories](#open-source-repositories)
 - [Awesome opensource Unity packages](#awesome-opensource-unity-packages)
   - [Open Source Repositories](#open-source-repositories)
     - [2D](#2d)
@@ -67,15 +70,15 @@ to make the Unity game-dev life happier and future proof, here is a full list of
   - [To Be organized](#to-be-organized)
   - [Game Based Learning](#game-based-learning)
 
-[**Assets**](#assets)
+[Assets](#assets)
 - [Icons](#icons)
 - [Collections / Forums](#collections--forums--shops)
 - [Creation Tools](#creation-tools)
 - [Audio](#audio)
 
-[**Articles**](#articles)
+[Articles](#articles)
 
-[**Books**](#books)
+[Books](#books)
 
 ## Games
 ### Adventure
@@ -109,7 +112,6 @@ to make the Unity game-dev life happier and future proof, here is a full list of
 ## Open Source Packages
 ### 2D
 - [Unity2D-Components](https://github.com/cmilr/Unity2D-Components) - A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.
-- [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy
 - [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs
 - [AtlasImage](https://github.com/mob-sakai/AtlasImage) - AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector
 - [SpriteDicing](https://github.com/Elringus/SpriteDicing) - Extension for Unity game engine to work with diced sprites
@@ -304,7 +306,6 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [lospro](https://github.com/devdogio/lospro) - The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!
 - [Inventory](https://github.com/FarrokhGames/Inventory) - A Diablo 2-style inventory system for Unity3D
 - [RPGCore](https://github.com/Fydar/RPGCore) - RPGCore is a toolkit for producing RPG games and mechanics for Unity
-- [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 - [NoteEditor](https://github.com/setchi/NoteEditor) - Note editor for rhythm games.
 
 ### Input
@@ -350,10 +351,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [LuaProfiler-For-Unity](https://github.com/ElPsyCongree/LuaProfiler-For-Unity) - LuaProfiler-For-Unity
 
 ### Materials
-- *- [Public Domain Textures](https://publicdomaintextures.com) tons of 8K PBR Materials under CC0 License
+- [Public Domain Textures](https://publicdomaintextures.com) tons of 8K PBR Materials under CC0 License
 
 ### Math
-- **- [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
+- [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 
 ### Meshes
 - [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) - Mesh simplification for Unity.
@@ -377,7 +378,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Forge Networking Remastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
 - [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 - [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
-- [Mirror](https://mirror-networking.com/) - a **high level*- Networking API for Unity, supporting different **low level*- [Transports](https://mirror-networking.com/Transports/).
+- [Mirror](https://mirror-networking.com/) - a **high level*- Networking API for Unity, supporting different **low level*
+- [Transports](https://mirror-networking.com/Transports/).
 - [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3) - Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP library for Mono and .NET
 - [LiteNetLibManager](https://github.com/insthync/LiteNetLibManager) - Higher level implementation for LiteNetLib
@@ -485,7 +487,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas
 - [ShinyEffectForUGUI](https://github.com/mob-sakai/ShinyEffectForUGUI) - Shiny effect of uGUI, which does not need mask or normal map
 - [FancyScrollView](https://github.com/setchi/FancyScrollView) - A scrollview component that can be implemented flexible flexible animation
-- [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - "I made the Juicy Health Bar from @reuno’s Unite LA talk. It’s pretty great!"
+- [Juicy Healthbar](https://twitter.com/AntonPantev/status/1140063685655826432) - "I made the Juicy Health Bar from @reuno's Unite LA talk. It's pretty great!"
 - [UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 - [PageTurningUIEffect](https://github.com/lobeyjon/PageTurningUIEffect) - A page turning UI effect made with unity, the paper deformation is determined by the pins' position on it
 - [Unity-WinForms](https://github.com/Meragon/Unity-WinForms) - Windows Forms wrapper for Unity
@@ -506,7 +508,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [Moments](https://github.com/Chman/Moments) - A quick GIF replay recorder for Unity
 - [FrameCapture](https://github.com/Chman/FrameCapture) - A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.
 - [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder for Unity.
-- [unityassets](https://github.com/fholm/unityassets) - Assorted assets previously on sale on the Unity Asset Store, now free on github.
+- [unityassets](https://github.com/fholm/unityassets) - Assorted assets previously on sale on the Unity Asset Store, now free on GitHub.
 - [UnityToolbag](https://github.com/nickgravelyn/UnityToolbag) - Variety of Unity scripts and tools.
 - [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 - [3DMath](https://github.com/GregLukosek/3DMath) - Unity C# 3D Math methods library.
@@ -531,7 +533,7 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code
 - [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
-- [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity!! (Read-only)
+- [GoogleSheetsUnity](https://github.com/5argon/GoogleSheetsUnity) - Get data from your private Google Sheets to Unity! (Read-only)
 - [unity-routines](https://github.com/tomblind/unity-routines) - Replacement for Unity coroutines that supports hierarchical routines and pooling
 - [CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
 - [demilib](https://github.com/Demigiant/demilib) - A library of various utilities and tools for Unity
@@ -563,7 +565,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [PixelSpriteGenerator-Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) - A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine
 - [WeightedRandomSelector](https://github.com/viliwonka/WeightedRandomSelector) - Very fast C# class for weighted random picking.
 - [SmartAssembler](https://github.com/Electronic-Brain/SmartAssembler) - Smartly Assembly your Project
-- [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 - [GetComponentAttribute](https://github.com/m3rt32/GetComponentAttribute) - A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.
 - [unity-utils](https://github.com/nubick/unity-utils) - Different help scripts for Unity engine.
 
@@ -608,7 +609,6 @@ A simple to use TCP and UDP networking library for .NET. Compatible with Unity
 - [itch.io](https://itch.io/game-assets)
 - [Game Assets](https://game-asset.net/)
 - [Game Dev Market](https://www.gamedevmarket.net/)
-- [Open Game Art](https://opengameart.org/)
 - [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
 
 ### Creation Tools
