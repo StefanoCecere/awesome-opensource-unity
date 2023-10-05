@@ -179,7 +179,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Character Controllers 3D
 
-- [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring.
+- [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131#content) - Robust Character Controller for Unity
 - [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity.
 - [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller.
 
