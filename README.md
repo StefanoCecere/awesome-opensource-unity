@@ -196,7 +196,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 - [Unity3d-BeastConsole](https://github.com/pointcache/Unity3d-BeastConsole) - Console for all your unity needs.
 - [consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
-- [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI .
+- [Lunar Unity Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - High-performance Unity iOS/Android logger built with native platform UI.
+- [Unity In Game Debug Console](https://github.com/yasirkula/UnityIngameDebugConsole) - Easy to use in-game debug + command line interface. Also on the [asset store](https://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068).
 
 ### Database
 
