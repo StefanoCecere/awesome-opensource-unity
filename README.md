@@ -179,6 +179,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 - [CharacterController2D](https://github.com/prime31/CharacterController2D) - Similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.
 - [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
+- [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc
 
 ### Character Controllers 3D
 
