@@ -2,6 +2,8 @@
 
 to make the Unity game-dev life happier and future proof, here is a full list of assets and packages.
 
+thanks to all [contributeors](https://github.com/StefanoCecere/awesome-opensource-unity/graphs/contributors)
+
 👉🏼 **Please submit a PR for any obsolete, updated or new entry!** _You can do it just editing this README and GitHub will do everything._ **Let's keep this list awesome!**.
 
 ## Contents
