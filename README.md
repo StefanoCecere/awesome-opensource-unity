@@ -149,6 +149,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker) - NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.
 - [Brainiac](https://github.com/daemon3000/Brainiac) - Behaviour tree editor for Unity3D.
 - [behaviac](https://github.com/Tencent/behaviac) - Behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).
+- [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ### AI Tools
 
