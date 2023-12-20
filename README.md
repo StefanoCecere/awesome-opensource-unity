@@ -616,6 +616,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 - [MagicaVoxel](https://ephtracy.github.io/) - Free to use Voxel editor (even for commercial).
 - [UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity.
+- [VoxReader](https://github.com/sandrofigo/VoxReader) - A library to read .vox files created with MagicaVoxel.
 
 ### VR
 
