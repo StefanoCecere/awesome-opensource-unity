@@ -231,6 +231,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Editor
 
+- 🎉 [Alchemy](https://github.com/AnnulusGames/Alchemy) - Provides a rich set of editor and serialization extensions for Unity.
 - [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 - [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 - [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity.
