@@ -544,6 +544,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. .
 - [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more.
 - [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
+- [TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily apply text animations and other effects with custom tags
 
 ### Utilities
 
