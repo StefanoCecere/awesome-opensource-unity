@@ -544,6 +544,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) - Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. .
 - [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more.
 - [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
+- [Rewired.UI.Hotkeys](https://github.com/am1goo/Rewired.UI.Hotkeys) - The plugin for Guavaman's Rewired Unity Asset that provides an easy-to-use API for showing controller hotkeys to the player at runtime based on their bindings and input method.
 
 ### Utilities
 
