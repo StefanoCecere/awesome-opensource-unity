@@ -612,6 +612,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 ### Video
 
 - [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
+- [VLC for Unity](https://github.com/videolan/vlc-unity) - LibVLC plugin for Unity to integrate multimedia playback inside your Unity apps and games.
 
 ### Voxel
 
