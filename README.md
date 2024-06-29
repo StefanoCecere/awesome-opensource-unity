@@ -153,7 +153,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### AI Tools
 
-- 🎉 [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
+- [AI Game DevTools (AI-GDT)](https://github.com/Yuan-ManX/ai-game-devtools)
+- [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
 
 ### AR
 
