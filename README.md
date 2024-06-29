@@ -75,14 +75,14 @@ thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 
 ### Educational and Social Impact
 
-- 🎉 [Antura and the Letters](https://github.com/vgwb/Antura/) - the award winning open source literacy and language learning game for kids.
+- [Antura and the Letters](https://github.com/vgwb/Antura/) - the award winning open source literacy and language learning game for kids.
 - [Idiomatic](https://github.com/cyt1984/Idiomatic) - Aan educational game developed to teaching English to native Portuguese speakers.
-- 🎉 [La Noria](https://github.com/vgwb/LaNoria) - an open source videogame about social innovation in Malaga.
+- [La Noria](https://github.com/vgwb/LaNoria) - an open source videogame about social innovation in Malaga.
 
 ### Cards
 
-- 🎉 [Card-Game-Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Create, Share, and Play
-- 🎉 [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity) - A LEGACY Unity project to help build Pokémon-esque RPG games.
+- [Card-Game-Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Create, Share, and Play
+- [Pokemon Unity](https://github.com/PokemonUnity/PokemonUnity) - A LEGACY Unity project to help build Pokémon-esque RPG games.
 
 ### Puzzle
 
@@ -130,7 +130,7 @@ thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 ### AI
 
 - [ML Agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit .
-- 🎉 [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP (Goal Oriented Action Planning) system for Unity.
+- [GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP (Goal Oriented Action Planning) system for Unity.
 - [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 - [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - A Utility AI for C# and Unity.
 - [EpPathFinding.cs](https://github.com/juhgiyo/EpPathFinding.cs) - A jump point search algorithm for grid based games in C#.
@@ -153,7 +153,8 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### AI Tools
 
-- 🎉 [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
+- [AI Game DevTools (AI-GDT)](https://github.com/Yuan-ManX/ai-game-devtools)
+- [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
 
 ### AR
 
@@ -231,7 +232,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### Editor
 
-- 🎉 [Alchemy](https://github.com/AnnulusGames/Alchemy) - Provides a rich set of editor and serialization extensions for Unity.
+- [Alchemy](https://github.com/AnnulusGames/Alchemy) - Provides a rich set of editor and serialization extensions for Unity.
 - [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.
 - [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 - [Reorderable List Editor Field for Unity](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - Reorderable List Editor Field for Unity.
@@ -545,6 +546,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [UnityGUI](https://github.com/coryleach/UnityGUI) - UGUI Panel Systems for navigation, animation and more.
 - [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
 - [Rewired.UI.Hotkeys](https://github.com/am1goo/Rewired.UI.Hotkeys) - The plugin for Guavaman's Rewired Unity Asset that provides an easy-to-use API for showing controller hotkeys to the player at runtime based on their bindings and input method.
+- [TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily apply text animations and other effects with custom tags
 
 ### Utilities
 
