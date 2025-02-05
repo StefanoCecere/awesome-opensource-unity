@@ -506,6 +506,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Unity Tweens](https://github.com/jeffreylanters/unity-tweens) - Lightweight tween library for Unity.
 - [Uween](https://github.com/beinteractive/Uween) - Lightweight tween library for Unity.
 - [ZestKit](https://github.com/prime31/ZestKit) - Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API.
+- [LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
 
 ### Vehicle
 
