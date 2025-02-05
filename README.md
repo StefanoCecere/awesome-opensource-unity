@@ -435,6 +435,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 - [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d.
 - [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) - GPU-based raycaster for Unity.
+- [QrackOpenRelativity](https://github.com/vm6502q/OpenRelativity) - A fork of the (MIT Game Lab) OpenRelativity project, by the developers of the [`unitaryfund/qrack`](https://github.com/unitaryfund/qrack) quantum computer simulation library, to add qubit simulation in and with relativistic gravity backgrounds, to generalize built-in Unity PhysX to quantum relativity (including shaders).
 
 ### Plugins
 
