@@ -260,6 +260,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Unity-Finder](https://github.com/litefeel/Unity-Finder) - Find Asset in Unity.
 - [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers and extensions for Unity Editor.
 - [enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor.
+- [Component Search Tool](https://github.com/saurabhchalke/ComponentSearchTool) - A Unity Editor tool to search for components within the scene hierarchy.
 
 ### Effect and Shaders
 
@@ -438,6 +439,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 - [BulletSharpUnity3d](https://github.com/Phong13/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d.
 - [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) - GPU-based raycaster for Unity.
+- [QrackOpenRelativity](https://github.com/vm6502q/OpenRelativity) - A fork of the (MIT Game Lab) OpenRelativity project, by the developers of the [`unitaryfund/qrack`](https://github.com/unitaryfund/qrack) quantum computer simulation library, to add qubit simulation in and with relativistic gravity backgrounds, to generalize built-in Unity PhysX to quantum relativity (including shaders).
 
 ### Plugins
 
