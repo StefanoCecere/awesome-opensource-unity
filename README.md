@@ -111,6 +111,10 @@ thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 
 - [Starcraft Unity3D](https://github.com/coconauts/startcraft-unity3d) - A recreation of the classic Starcraft game by Blizzard, on Unity3D.
 
+## Projects
+
+- [Open Brush](https://github.com/icosa-foundation/open-brush) - the open source, community led evolution of Tilt Brush! Art From All Angles, VR app.
+
 ## Open Source Packages
 
 ### 2D
