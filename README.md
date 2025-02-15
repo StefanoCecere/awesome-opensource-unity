@@ -85,10 +85,11 @@ thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 ### Adventure
 
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - An open source reimplementation of GTA San Andreas game engine in Unity.
+- [Hello Mario Framework](https://github.com/HelloFangaming/HelloMarioFramework) - Create your own 3D Mario game with Hello Mario Framework for Unity!
 
 ### Educational and Social Impact
 
-- [Antura and the Letters](https://github.com/vgwb/Antura/) - the award winning open source literacy and language learning game for kids.
+- [Learn with Antura](https://github.com/vgwb/Antura/) - the award winning open source language learning and country explorer game for kids.
 - [Idiomatic](https://github.com/cyt1984/Idiomatic) - Aan educational game developed to teaching English to native Portuguese speakers.
 - [La Noria](https://github.com/vgwb/LaNoria) - an open source videogame about social innovation in Malaga.
 
@@ -112,6 +113,7 @@ thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 
 - [InfiniteRunner3D](https://github.com/dgkanatsios/InfiniteRunner3D) - Creating an infinite 3D runner game in Unity.
 - [CrazyCar](https://github.com/TastSong/CrazyCar) - online car game, the server is SpringBoot + MyBatis Plus; the background is Vue + Element.
+- [Mario Kart Racing Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.
 
 ### Sandbox
 
