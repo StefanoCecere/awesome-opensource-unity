@@ -207,6 +207,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131#content) - Robust Character Controller for Unity
 - [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity.
 - [Advanced Rigidbody FirstPerson Controller](https://github.com/Moe-Baker/Advanced-Rigidbody-FirstPerson-Controller) - Rigidbody Based FirstPerson Controller.
+- [Box2D.NET](https://github.com/ikpil/Box2D.NET) - a port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
 
 ### Controller Mappings
 
