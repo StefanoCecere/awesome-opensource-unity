@@ -130,6 +130,7 @@ thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 ## Projects
 
 - [Open Brush](https://github.com/icosa-foundation/open-brush) - the open source, community led evolution of Tilt Brush! Art From All Angles, VR app.
+- [Open Blocks](https://github.com/icosa-foundation/open-blocks) - the open source, community led evolution of Google Blocks, Intuitive low-poly modelling in VR. 
 
 ## Open Source Packages
 
