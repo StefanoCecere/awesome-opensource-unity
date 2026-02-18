@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 		- [Educational and Social Impact](#educational-and-social-impact)
 		- [Cards](#cards)
 		- [Puzzle](#puzzle)
+		- [Roguelite / Survival](#roguelite--survival)
 		- [RPG](#rpg)
 		- [Runner / Driving](#runner--driving)
 		- [Sandbox](#sandbox)
@@ -105,6 +106,10 @@ Thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 - [nodulus](https://github.com/Hyperparticle/nodulus) ⭐596 🕒2y ago- A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
 - [AngryBirdsStyleGame](https://github.com/dgkanatsios/AngryBirdsStyleGame) ⭐635 🕒9mo ago- An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
 - [MatchThreeGame](https://github.com/dgkanatsios/MatchThreeGame) ⭐567 🕒9mo ago- A match-3 game in Unity (like Candy Crush and Bejeweled).
+
+### Roguelite / Survival
+
+- [VampireSurvivorsClone](https://github.com/matthiasbroske/VampireSurvivorsClone) ⭐217 🕒10h ago- A Vampire Survivors inspired mobile game built from scratch in Unity.
 
 ### RPG
 
@@ -500,10 +505,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) ⭐1.0k 🕒1y ago 🏛️- Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy.
 
 ### Scriptings
-
+- [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐2.6k 🕒11d ago- Yarn Spinner is a tool for building interactive dialogue in games! .
 - [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) ⭐1.4k 🕒4y ago- Unity Scripting in C++.
 - [unity-python](https://github.com/exodrifter/unity-python) ⭐353 🕒3y ago- Python plugin for Unity3D.
-- [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) ⭐2.6k 🕒11d ago- Yarn Spinner is a tool for building interactive dialogue in games! .
 - [UniScript](https://github.com/pjc0247/UniScript) ⭐157 🕒3y ago- Brings C# scripting into Unity which acts as native code.
 - [SlowSharp](https://github.com/pjc0247/SlowSharp) ⭐136 🕒2y ago- C# interpreter written in C#.
 
@@ -572,8 +576,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect) ⭐585 🕒1y ago- Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. .
 - [UnityGUI](https://github.com/coryleach/UnityGUI) ⭐238 🕒1y ago- UGUI Panel Systems for navigation, animation and more.
 - [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
--
-- [TMPEffects](https://github.com/Luca3317/TMPEffects) ⭐582 🕒4mo ago- Easily apply text animations and other effects with custom tags
+- [TMPEffects](https://github.com/Luca3317/TMPEffects) ⭐582 🕒4mo ago- Easily apply text animations and other effects with custom tags. Yarn Spinner compatible
 
 ### Utilities
 
@@ -673,7 +676,9 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [Game Assets](https://game-asset.net/)
 - [Game Dev Market](https://www.gamedevmarket.net/)
 - [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
--
+- [loafbrr](https://loafbrr.itch.io)
+- [quaternius](https://quaternius.com)
+
 ### 2D assets
 - [glitchthegame.com](https://glitchthegame.com/public-domain-game-art/)
 - [itch.io/game-assets/free](https://itch.io/game-assets/free)
