@@ -181,6 +181,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 
 ### AI Tools
 
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ⭐3.4k 🕒today- Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
 - [AI Game DevTools (AI-GDT)](https://github.com/Yuan-ManX/ai-game-devtools) 933 🕒yesterday-  the latest AI Game Development Tools, including LLM, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics
 - [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) ⭐65 🕒2y ago- Editor assets generation via Stable Diffusion.
 
