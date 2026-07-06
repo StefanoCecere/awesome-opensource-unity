@@ -577,6 +577,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [UnityGUI](https://github.com/coryleach/UnityGUI) ⭐238 🕒1y ago- UGUI Panel Systems for navigation, animation and more.
 - [UGUIExtend](https://github.com/L-Lawliet/UGUIExtend)
 - [TMPEffects](https://github.com/Luca3317/TMPEffects) ⭐582 🕒4mo ago- Easily apply text animations and other effects with custom tags. Yarn Spinner compatible
+- [unity-ui-document-design-system](https://github.com/sinanata/unity-ui-document-design-system) - Design system for Unity 6 UI Toolkit (UIDocument + UXML/USS): design tokens, themed components, icons, mobile responsiveness and runtime helpers, with dark/light theming. Also runs on Unity 6000.5+ world-space panels (PanelRenderer); the live WebGL showcase includes a walkable 3D gallery.
 
 ### Utilities
 
