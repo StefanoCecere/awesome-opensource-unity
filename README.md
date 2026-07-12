@@ -138,7 +138,7 @@ Thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 
 - [open-brush](https://github.com/icosa-foundation/open-brush) ⭐1.0k 🕒today- the open source, community led evolution of Tilt Brush! Art From All Angles, VR app.
 - [open-blocks](https://github.com/icosa-foundation/open-blocks) ⭐97 🕒30days ago- the open source, community led evolution of Google Blocks, Intuitive low-poly modelling in VR.
-- [Body-motion-capture-and-animation-in-Unity](https://github.com/ShutovKS/Body-motion-capture-and-animation-in-Unity) - Python and OpenCV pipeline for real-time human pose detection from a webcam, streamed to Unity for character animation via inverse kinematics.
+- [Body-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Body-motion-capture-and-animation-in-Unity) - Python and OpenCV pipeline for real-time human pose detection from a webcam, streamed to Unity for character animation via inverse kinematics.
 
 ## Open Source Packages
 
