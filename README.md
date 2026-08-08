@@ -95,6 +95,7 @@ Thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 - [Antura](https://github.com/vgwb/Antura/) ⭐78 🕒today- the award winning open source language learning and country explorer game for kids.
 - [Idiomatic](https://github.com/cyt1984/Idiomatic) - Aan educational game developed to teaching English to native Portuguese speakers.
 - [La Noria](https://github.com/vgwb/LaNoria) - an open source videogame about social innovation in Malaga.
+- [Mehrtakt-Abenteuer](https://github.com/GGalya1/riscv-architecture-educational-game) - An open-source Unity educational game for learning RISC-V computer architecture through interactive multi-cycle processor concepts.
 
 ### Cards
 
