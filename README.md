@@ -87,6 +87,7 @@ Thanks to all [contributors](https://github.com/StefanoCecere/awesome-opensource
 
 ### Adventure
 
+- [Hecton-8](https://github.com/marko1olo/Hecton8) - NASA-punk deep sea noir submarine game engine built on Unity 6000 with zero-GC architecture, Burst/Jobs hot paths, and URP rendering.
 - [SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) ⭐2.4k 🕒2y ago- An open source reimplementation of GTA San Andreas game engine in Unity.
 - [HelloMarioFramework](https://github.com/HelloFangaming/HelloMarioFramework) ⭐64 🕒2mo ago- Create your own 3D Mario game with Hello Mario Framework for Unity!
 
