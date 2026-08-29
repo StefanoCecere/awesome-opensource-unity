@@ -343,6 +343,7 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [ecsrx.unity](https://github.com/EcsRx/ecsrx.unity) ⭐420 🕒10mo ago- A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems.
 - [GameFramework](https://github.com/FlipWebApps/GameFramework) ⭐251 🕒5y ago- A free framework for Unity that will help drastically increase the development speed and feature set of your games.
 - [gocs](https://github.com/lazlo-bonin/gocs) ⭐0- GameObject Component System for Unity.
+- [GameFrameX](https://github.com/GameFrameX/GameFrameX) ⭐640 🕒1d ago 🍴85- Cross-engine game framework: Unity client + actor-model .NET server, one Protobuf/LuBan pipeline, hot-update both ends, AI-agent docs in-repo.
 
 ### Framework - visual
 
