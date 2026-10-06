@@ -670,11 +670,10 @@ An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on us
 - [kenney.nl](https://kenney.nl/)
 - [Kay Kit](https://kaylousberg.itch.io/)
 - [opengameart.org](https://opengameart.org/)
-- [Unitylist](https://unitylist.com/) - The best GitHub Unity repositories search engine.
 - [Armedunity](https://armedunity.com/) - Shooter focused forum.
 - [itch.io](https://itch.io/game-assets)
-- [Game Assets](https://game-asset.net/)
 - [Game Dev Market](https://www.gamedevmarket.net/)
+- [HyperCodeStore](https://hyper-code-store.com/) - Complete Unity game templates and editor tools sold with full C# source; listings are human-reviewed.
 - [Unity Assetstore](https://assetstore.unity.com/) - Official asset store for unity.
 - [loafbrr](https://loafbrr.itch.io)
 - [quaternius](https://quaternius.com)
